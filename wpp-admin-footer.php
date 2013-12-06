@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Admin Footer Customization
+ * Plugin Name: Wpp Admin Footer Customization
  * Plugin URI: https://mhdriyaz.wordpress.com
  * Description: This plugin used to customize wordpress admin footer
  * Version: 1.0
